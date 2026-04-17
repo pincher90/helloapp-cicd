@@ -50,6 +50,9 @@ Runs when:
 
 ## Project Structure
 
+## Project Structure
+
+```bash
 helloapp-cicd/
 ├── app/
 │   └── index.html
@@ -60,7 +63,7 @@ helloapp-cicd/
     └── workflows/
         ├── docker.yml
         └── terraform.yml
-
+```
 ---
 
 ## Key Concepts
