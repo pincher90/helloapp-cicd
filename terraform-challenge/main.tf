@@ -7,9 +7,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "demo" {
-bucket = "pinscher90-demo-bucket-123456"
+  bucket = "pinscher90-demo-bucket-123456"
 }
-
-
 
 # testing
